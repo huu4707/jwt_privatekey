@@ -1,0 +1,22 @@
+{
+  "name": "jwt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huu4707/jwt_privatekey.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huu4707/jwt_privatekey/issues"
+  },
+  "homepage": "https://github.com/huu4707/jwt_privatekey#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
